@@ -3,11 +3,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://t.me/levalnik">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
-  </a>
   <a href="mailto:levkuimov34@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://t.me/levalnik">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
 
