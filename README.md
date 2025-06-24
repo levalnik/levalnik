@@ -79,9 +79,9 @@
 ---
 
 ### 🚀 Projects:
-- 🧩 **FreelanceHub** — microservice freelance platform  
+- 🧩 **FreelanceHub** — microservice freelance platform.
 - 🏦 **ATM-system** — ATM management system applying Clean Architecture principles
-and modern development practices.I  
+and modern development practices.
 
 ---
 
