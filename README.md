@@ -13,14 +13,14 @@
 
 <div align="center">
   <h1>Hi there 👋 I'm Lev</h1>
-  <h3>Java Backend Developer from Saint-Petersburg</h3>
+  <h3>.NET and Java Backend Developer</h3>
 </div>
 
 ---
 
 ### 🌏 About me:
-- 💻 Depening my knowlage in Java backend development
-- 🔭 Currently working on **FreelanceApp** – a platform for freelancers and clients  
+- 💻 Depening my knowlage in .NET and Java backend development
+- 🔭 Currently working on projects to improve .NET backend development
 - 🏫 ITMO Software Engeneering student
 - 🏋️‍♂️ The hitting weights enjoyer 
 
