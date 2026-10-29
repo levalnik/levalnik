@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVlcmtlZ2xpdjQ2Z3c3bjgzdTU1NW8yZWYzM3E3a3c5ZWdvdTh4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oWjyixDbWuAk8/giphy.gif" width="180" alt="Animated cat" />
   <h1>Hi, I'm Lev 👋</h1>
   <p><strong>C# / .NET Backend Developer</strong> · Software Engineering student at ITMO University</p>
 
@@ -67,8 +68,3 @@ A Java / Spring Boot microservices project for managing freelance users, project
 </details>
 
 ---
-
-<div align="center">
-  <p>Always learning, building, and improving — one commit (or one rep) at a time. 💪</p>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVlcmtlZ2xpdjQ2Z3c3bjgzdTU1NW8yZWYzM3E3a3c5ZWdvdTh4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oWjyixDbWuAk8/giphy.gif" width="180" alt="Animated cat" />
-</div>
